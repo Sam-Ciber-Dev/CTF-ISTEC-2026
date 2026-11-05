@@ -1,0 +1,33 @@
+# ---- OS / system files ----
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- Office / temporary document files ----
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# ---- Build / tooling artifacts ----
+node_modules/
+__pycache__/
+*.pyc
+.cache/
+
+# ---- Local / private notes (not meant to be published) ----
+*.local
+/private/
