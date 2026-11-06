@@ -1,8 +1,8 @@
-# CTF ISTEC Porto 2026: 1st Edition — Capture the Flag of Cybersecurity
+# CTF ISTEC Porto 2026: 1st Edition: Capture the Flag of Cybersecurity
 
 ## Overview
 
-Personal account of my participation in the **organisation** of the 1st edition of the **CTF ISTEC Porto | Capture the Flag of Cybersecurity**, a hands-on, jeopardy-style cybersecurity competition promoted by the [**ISTEC Porto — Instituto Superior de Tecnologias Avançadas do Porto**](https://istec-porto.pt).
+Personal account of my participation in the **organisation** of the 1st edition of the **CTF ISTEC Porto | Capture the Flag of Cybersecurity**, a hands-on, jeopardy-style cybersecurity competition promoted by the [**ISTEC Porto: Instituto Superior de Tecnologias Avançadas do Porto**](https://istec-porto.pt).
 
 The event ran over two dates: a **preparation session (bootcamp) on 22 October 2026**, and the **competition itself on 29 October 2026**, at the ISTEC Porto premises. On competition day, **22 teams** of 2 to 4 students competed against each other to solve **43 challenges** worth a combined **8100 points**, on a self-hosted [CTFd](https://ctfd.io) platform.
 
@@ -16,95 +16,103 @@ The report was written by **José Samuel Oliveira** (Ph0enix) and is published f
 
 ## Event at a Glance
 
-| Item              | Detail                                                                        |
-| ----------------- | ----------------------------------------------------------------------------- |
-| Event             | CTF ISTEC Porto — Capture the Flag of Cybersecurity (1st edition)             |
-| Promoter          | ISTEC Porto — Instituto Superior de Tecnologias Avançadas do Porto            |
-| Format            | Jeopardy (CTFd platform), flags in the `ISTEC{...}` format                    |
-| Bootcamp          | 22 October 2026 (optional preparation session)                                |
-| Competition       | 29 October 2026 · accreditation 1:30 p.m. · competition 2:15–5:15 p.m.        |
-| Teams             | 2 to 4 students per team                                                       |
-| My role           | Organiser (conception, preparation and running of the event)                  |
+| Item        | Detail                                                                    |
+| ----------- | ------------------------------------------------------------------------- |
+| Event       | CTF ISTEC Porto: Capture the Flag of Cybersecurity (1st edition)        |
+| Promoter    | ISTEC Porto: Instituto Superior de Tecnologias Avançadas do Porto      |
+| Format      | Jeopardy (CTFd platform), flags in the `ISTEC{...}` format              |
+| Bootcamp    | 22 October 2026 (optional preparation session)                            |
+| Competition | 29 October 2026 · accreditation 1:30 p.m. · competition 2:15–5:15 p.m. |
+| Teams       | 2 to 4 students per team                                                  |
+| My role     | Organiser (conception, preparation and running of the event)              |
 
 ## Statistics Summary
 
-| Metric            | Value   |
-| ----------------- | ------- |
-| Registered users  | 88      |
-| Teams (platform)  | 26      |
-| Scoring teams     | 22      |
-| Distinct IPs      | 265     |
-| Challenges        | 43      |
-| Total points      | 8100    |
-| Flag submissions  | 2028 (379 correct · 1649 incorrect) |
-| Most-solved       | *Lê as Regras* (22 solves)          |
-| Least-solved      | *Ecos of the Past (2/3)* (1 solve)  |
+| Metric           | Value                                |
+| ---------------- | ------------------------------------ |
+| Registered users | 88                                   |
+| Teams (platform) | 26                                   |
+| Scoring teams    | 22                                   |
+| Distinct IPs     | 265                                  |
+| Challenges       | 43                                   |
+| Total points     | 8100                                 |
+| Flag submissions | 2028 (379 correct · 1649 incorrect) |
+| Most-solved      | *Lê as Regras* (22 solves)        |
+| Least-solved     | *Ecos of the Past (2/3)* (1 solve) |
 
 ## Challenge Categories
 
-| Category               | Challenges | Points |
-| ---------------------- | ---------- | ------ |
-| Web                    | 18         | 3500   |
-| OSINT                  | 7          | 1500   |
-| Misc                   | 6          | 700    |
-| Cryptography           | 4          | 500    |
-| Forensics              | 3          | 700    |
-| Reverse                | 2          | 700    |
-| CTI                    | 1          | 300    |
-| Beginner (Iniciação)   | 1          | 100    |
-| Programming / Logic    | 1          | 100    |
-| **Total**              | **43**     | **8100** |
+| Category               | Challenges   | Points         |
+| ---------------------- | ------------ | -------------- |
+| Web                    | 18           | 3500           |
+| OSINT                  | 7            | 1500           |
+| Misc                   | 6            | 700            |
+| Cryptography           | 4            | 500            |
+| Forensics              | 3            | 700            |
+| Reverse                | 2            | 700            |
+| CTI                    | 1            | 300            |
+| Beginner (Iniciação) | 1            | 100            |
+| Programming / Logic    | 1            | 100            |
+| **Total**        | **43** | **8100** |
 
 ## Final Podium
 
-| Place | Team                  | Score |
-| ----- | --------------------- | ----- |
+| Place  | Team                 | Score |
+| ------ | -------------------- | ----- |
 | 🥇 1st | Marrocos             | 4900  |
 | 🥈 2nd | Ciberpunks           | 4000  |
 | 🥉 3rd | Gondomar Sport Clube | 3800  |
 
-A **"Rookie" prize (Revelação)**, consisting of an FNAC voucher, was awarded to the best-placed eligible team made up of first-year students and/or students from courses outside the IT field.
+A **"Rookie" prize**, consisting of an FNAC voucher, was awarded to the best-placed eligible team made up of first-year students and/or students from courses outside the IT field.
 
-### Winning team — Marrocos
+### Winning team: Marrocos
 
-- Gonçalo Manuel Albuquerque Marinho — [LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-manuel-albuquerque-marinho-aa058a284/)
-- Filipe Calatré — [LinkedIn](https://www.linkedin.com/in/filipe-calatr%C3%A9-973343395/)
-- Bruno Lamela — [LinkedIn](https://www.linkedin.com/in/bruno-lamela-b84746335/)
-- Luiz Peneda
+- Gonçalo Manuel Albuquerque Marinho: [LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-manuel-albuquerque-marinho-aa058a284/)
+- Filipe Calatré: [LinkedIn](https://www.linkedin.com/in/filipe-calatr%C3%A9-973343395/)
+- Bruno Lamela: [LinkedIn](https://www.linkedin.com/in/bruno-lamela-b84746335/)
+- Luiz Peneda: no LinkedIn
 
 ## Organising Team
 
-| Member                         | Role                          | Link                                                        |
-| ------------------------------ | ----------------------------- | ----------------------------------------------------------- |
-| Mário Amorim                   | Coordination (lecturer)       | —                                                           |
-| Nuno Fonseca                   | Co-organisation (lecturer)    | [LinkedIn](https://www.linkedin.com/in/nuno-fonseca-33b2452/) |
-| Vanina Kollen                  | Organisation (student)        | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/) |
-| Ana Rita Monteiro              | Organisation (student)        | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
-| Rafael Batista                 | Organisation (student)        | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)        |
-| José Samuel Oliveira (Ph0enix) | Organisation (student)        | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/) |
+| Member                          | Role                       | Link                                                                |
+| ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
+| Mário Amorim                   | Coordination (lecturer)    | [LinkedIn](https://www.linkedin.com/in/marioamorim/)                |
+| Nuno Fonseca                    | Co-organisation (lecturer) | [LinkedIn](https://www.linkedin.com/in/nuno-fonseca-33b2452/)        |
+| Vanina Kollen                   | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/)     |
+| Ana Rita Monteiro               | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
+| Rafael Batista                  | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
+| José Samuel Oliveira (Ph0enix) | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/)        |
 
-## Documents
+## Photo Gallery
 
-- [Participation Report (English)](docs/Report%20CTF%20ISTEC%20Porto%202026%20-%20Samuel%20Oliveira%20%28ENG%29.docx) · [PDF](docs/CTF_ISTEC_Porto_2026_Report_ENG.pdf)
-- [Relatório de Participação (Português)](docs/Relat%C3%B3rio%20CTF%20ISTEC%20Porto%202026%20-%20Samuel%20Oliveira%20%28PT%29.docx) · [PDF](docs/CTF_ISTEC_Porto_2026_Relat%C3%B3rio_PT.pdf)
-- [Organiser certificate (ISTEC Porto)](docs/CTF_Organizer_Certificate_ISTEC_Jose_Samuel_Rocha_Oliveira.pdf)
+Selected photos from the event: the competition trophy and keychain keepsake, the organising team, and participants in action.
 
-## Repository Structure
-
-```
-.
-├── assets/   Social preview image
-├── docs/     Reports (PT/ENG, DOCX + PDF) and the organiser certificate
-├── imgs/     Photos, award keepsakes and results/statistics charts
-└── videos/   Short clips from the event
-```
-
-## Links
-
-| Entity                             | Link                                                     |
-| ---------------------------------- | -------------------------------------------------------- |
-| ISTEC Porto                        | https://istec-porto.pt                                   |
-| Competition platform (CTFd)        | https://ctf-istec.polandcentral.cloudapp.azure.com/register |
+<table>
+  <tr>
+    <td><img src="imgs/awards/trophy_front.jpg" width="100%"></td>
+    <td><img src="imgs/awards/keychain_front.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Competition trophy</td>
+    <td align="center">Event keychain keepsake</td>
+  </tr>
+  <tr>
+    <td><img src="imgs/photos/organizers_team_1.jpg" width="100%"></td>
+    <td><img src="imgs/photos/organizers_team_3.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Organising team</td>
+    <td align="center">Organising team</td>
+  </tr>
+  <tr>
+    <td><img src="imgs/photos/participants_1.jpg" width="100%"></td>
+    <td><img src="imgs/photos/participants_2.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Participants in action</td>
+    <td align="center">Participants in action</td>
+  </tr>
+</table>
 
 ## Disclaimer
 
@@ -129,7 +137,7 @@ The social preview image used for link cards:
 
 ## Badges
 
-![ISTEC Porto](https://img.shields.io/badge/ISTEC%20Porto-CTF%202026-0A66C2?style=for-the-badge)
+![ISTEC Porto](<https://img.shields.io/badge/ISTEC%20Porto-CTF%202026-0A66C2?style=for-the-badge>)
 ![Capture the Flag](https://img.shields.io/badge/CTF-Jeopardy-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![CTFd](https://img.shields.io/badge/Platform-CTFd-FF0000?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-InfoSec-4682B4?style=for-the-badge)
