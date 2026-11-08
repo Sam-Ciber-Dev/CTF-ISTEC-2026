@@ -76,12 +76,12 @@ A **"Rookie" prize**, consisting of an FNAC voucher, was awarded to the best-pla
 
 | Member                          | Role                       | Link                                                                |
 | ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
-| Mário Amorim                   | Coordination (lecturer)    | [LinkedIn](https://www.linkedin.com/in/marioamorim/)                |
-| Nuno Fonseca                    | Co-organisation (lecturer) | [LinkedIn](https://www.linkedin.com/in/nuno-fonseca-33b2452/)        |
-| Vanina Kollen                   | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/)     |
-| Ana Rita Monteiro               | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
-| Rafael Batista                  | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
-| José Samuel Oliveira (Ph0enix) | Organisation (student)     | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/)        |
+| Mário Amorim                   | Coordination: Lecturer    | [LinkedIn](https://www.linkedin.com/in/marioamorim/)                |
+| Nuno Fonseca                    | Co-organisation: Technician | [LinkedIn](https://www.linkedin.com/in/nuno-fonseca-33b2452/)        |
+| Vanina Kollen                   | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/)     |
+| Ana Rita Monteiro               | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
+| Rafael Batista                  | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
+| José Samuel Oliveira (Ph0enix) | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/)        |
 
 ## Photo Gallery
 
