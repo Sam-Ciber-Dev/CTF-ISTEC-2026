@@ -64,7 +64,7 @@ The report was written by **José Samuel Oliveira** (Ph0enix) and is published f
 | 🥈 2nd | Ciberpunks           | 4000  |
 | 🥉 3rd | Gondomar Sport Clube | 3800  |
 
-A **"Rookie" prize**, consisting of an FNAC voucher, was awarded to the best-placed eligible team made up of first-year students and/or students from courses outside the IT field.
+The **"Rookie" prize**, consisting of an FNAC voucher, was awarded to **Garotos de Programas** (4th place overall, 3500 points), the best-placed eligible team made up of first-year students and/or students from courses outside the IT field.
 
 ### Winning team: Marrocos
 
