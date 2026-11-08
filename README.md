@@ -36,7 +36,7 @@ The report was written by **José Samuel Oliveira** (Ph0enix) and is published f
 | Distinct IPs     | 265                                  |
 | Challenges       | 43                                   |
 | Total points     | 8100                                 |
-| Flag submissions | 2023 (375 correct · 1648 incorrect) |
+| Flag submissions | 2028 (379 correct · 1649 incorrect) |
 | Most-solved      | *Lê as Regras* (22 solves)        |
 | Least-solved     | *Ecos of the Past (2/3)* (1 solve) |
 
