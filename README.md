@@ -1,3 +1,4 @@
+
 # CTF ISTEC Porto 2026: 1st Edition: Capture the Flag of Cybersecurity
 
 ## Overview
@@ -18,8 +19,8 @@ The report was written by **José Samuel Oliveira** (Ph0enix) and is published f
 
 | Item        | Detail                                                                    |
 | ----------- | ------------------------------------------------------------------------- |
-| Event       | CTF ISTEC Porto: Capture the Flag of Cybersecurity (1st edition)        |
-| Promoter    | ISTEC Porto: Instituto Superior de Tecnologias Avançadas do Porto      |
+| Event       | CTF ISTEC Porto: Capture the Flag of Cybersecurity (1st edition)          |
+| Promoter    | ISTEC Porto: Instituto Superior de Tecnologias Avançadas do Porto        |
 | Format      | Jeopardy (CTFd platform), flags in the `ISTEC{...}` format              |
 | Bootcamp    | 22 October 2026 (optional preparation session)                            |
 | Competition | 29 October 2026 · accreditation 1:30 p.m. · competition 2:15–5:15 p.m. |
@@ -74,14 +75,14 @@ A **"Rookie" prize**, consisting of an FNAC voucher, was awarded to the best-pla
 
 ## Organising Team
 
-| Member                          | Role                       | Link                                                                |
-| ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
-| Mário Amorim                   | Coordination: Lecturer    | [LinkedIn](https://www.linkedin.com/in/marioamorim/)                |
+| Member                          | Role                        | Link                                                                |
+| ------------------------------- | --------------------------- | ------------------------------------------------------------------- |
+| Mário Amorim                   | Coordination: Lecturer      | [LinkedIn](https://www.linkedin.com/in/marioamorim/)                 |
 | Nuno Fonseca                    | Co-organisation: Technician | [LinkedIn](https://www.linkedin.com/in/nuno-fonseca-33b2452/)        |
-| Vanina Kollen                   | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/)     |
-| Ana Rita Monteiro               | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
-| Rafael Batista                  | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
-| José Samuel Oliveira (Ph0enix) | Organisation: Student     | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/)        |
+| Vanina Kollen                   | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/)     |
+| Ana Rita Monteiro               | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
+| Rafael Batista                  | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
+| José Samuel Oliveira (Ph0enix) | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/)        |
 
 ## Photo Gallery
 
