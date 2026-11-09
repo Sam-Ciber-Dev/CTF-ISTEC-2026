@@ -1,4 +1,3 @@
-
 # CTF ISTEC Porto 2026: 1st Edition: Capture the Flag of Cybersecurity
 
 ## Overview
@@ -81,7 +80,7 @@ The **"Rookie" prize**, consisting of an FNAC voucher, was awarded to **Garotos 
 | Nuno Fonseca                    | Co-organisation: Technician | [LinkedIn](https://www.linkedin.com/in/nuno-fonseca-33b2452/)        |
 | Vanina Kollen                   | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/vanina-kollen-337762397/)     |
 | Ana Rita Monteiro               | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/ana-rita-monteiro-b186a8359/) |
-| Rafael Batista                  | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
+| Rafael Baptista                 | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/0xadamastor/)                 |
 | José Samuel Oliveira (Ph0enix) | Organisation: Student       | [LinkedIn](https://www.linkedin.com/in/jose-samuel-oliveira/)        |
 
 ## Photo Gallery
