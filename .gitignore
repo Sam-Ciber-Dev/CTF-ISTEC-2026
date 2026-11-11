@@ -25,6 +25,7 @@ desktop.ini
 # ---- Source documents (only the PDF versions are published) ----
 *.docx
 *.doc
+*.txt
 
 # ---- Build / tooling artifacts ----
 node_modules/
